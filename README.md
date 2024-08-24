@@ -5,3 +5,4 @@ Started food delivery sales data analsyt project via yozutube,
 4 load data using excel
 5 data cleaning : replace short form to full form (reg = Regular, LF = Low Fat)
 6
+
