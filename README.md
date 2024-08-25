@@ -7,4 +7,7 @@ Started food delivery sales data analsyt project via yozutube,
 6 after cleaning, click on apply and save to implement save changes
 7 remove all error and null values or change it with exact value using average or median or research
 8 create custom canvas setting (800  by 1400 )size on visualization chart
+create design to write compaNY NAME
+then use formala to write total sales, avg rating and no of item and edit them as per use
+
 
