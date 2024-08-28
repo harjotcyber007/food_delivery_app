@@ -4,6 +4,10 @@ Project steps :
 Key performance Area to serve and find solutions :
 ![image](https://github.com/user-attachments/assets/5e3563cb-f1e3-4394-a85c-492a9f1ec485)
 
+Main indicators to build :
+![image](https://github.com/user-attachments/assets/deefaa4b-2344-490b-86e8-94cb173e0219)
+
+
 
 
 Started food delivery sales data analsyt project via youtube,
