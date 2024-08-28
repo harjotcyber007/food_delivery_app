@@ -1,8 +1,12 @@
-Project steps 
+Project steps :
 ![image](https://github.com/user-attachments/assets/6346c70f-e94f-4c1e-9170-563a962d9b7e)
 
+Key performance Area to serve and find solutions :
+![image](https://github.com/user-attachments/assets/5e3563cb-f1e3-4394-a85c-492a9f1ec485)
 
-Started food delivery sales data analsyt project via yozutube,
+
+
+Started food delivery sales data analsyt project via youtube,
 1 downloed data set for cleanig and preprocessing. 
 2 use excel for load data and reading 
 3 open power bi and setup
